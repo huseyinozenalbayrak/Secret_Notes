@@ -13,22 +13,19 @@ Intuitive Interface: The application provides a user-friendly interface for seam
 
 # Installation
 
-- Clone the repository to your local machine:
+Clone the repository to your local machine:
 ```
 git clone https://github.com/huseyinozenalbayrak/Secret_Notes.git
 ```
-
-- Navigate to the project directory:
+Navigate to the project directory:
 ```
 cd Secret_Notes
 ```
-
-- Run the Python script:
+Run the Python script:
 ```
 python secret_notes.py
 ```
-
-- Follow the on-screen instructions to create a new account and start using Secret Notes.
+Follow the on-screen instructions to create a new account and start using Secret Notes.
 
 # Usage
 1. Create Account: If you're a new user, you'll need to create an account by providing a username and password.
