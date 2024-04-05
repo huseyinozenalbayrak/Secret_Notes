@@ -28,14 +28,15 @@ python secret_notes.py
 Follow the on-screen instructions to create a new account and start using Secret Notes.
 
 # Usage
-1. Create Account: If you're a new user, you'll need to create an account by providing a username and password.
-2. Log In: Once your account is created, log in with your username and password to access the application.
-3. Manage Notes: Create new notes, view existing notes, edit note contents, and delete notes as needed.
-4. Log Out: After you're done using Secret Notes, make sure to log out to protect your account.
+- To encrypt and save:
+  Enter title of the message, message and the master key
+- To decrypt and see the secret message:
+  Enter the message and the master key if the master key is true, you'll see the secret note. If not you won't be able to see the content of the message
+
 # Security Notice
 - Password Protection: Choose a strong and unique password for your Secret Notes account to prevent unauthorized access.
 - Keep Password Secure: Do not share your Secret Notes password with anyone and avoid using it for other accounts.
-- 
+
 # Contributions
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to open an issue or create a pull request.
 
