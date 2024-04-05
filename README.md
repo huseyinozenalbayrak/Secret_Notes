@@ -10,7 +10,7 @@ Intuitive Interface: The application provides a user-friendly interface for seam
 
 # Installation
 Clone the repository to your local machine:
-```bash
+```console
 git clone https://github.com/huseyinozenalbayrak/Secret_Notes.git
 ```
 Navigate to the project directory:
