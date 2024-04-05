@@ -17,14 +17,17 @@ Intuitive Interface: The application provides a user-friendly interface for seam
 ```
 git clone https://github.com/huseyinozenalbayrak/Secret_Notes.git
 ```
+
 - Navigate to the project directory:
 ```
 cd Secret_Notes
 ```
+
 - Run the Python script:
 ```
 python secret_notes.py
 ```
+
 - Follow the on-screen instructions to create a new account and start using Secret Notes.
 
 # Usage
