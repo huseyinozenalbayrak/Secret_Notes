@@ -1,7 +1,6 @@
 # Secret Notes
-<img width="499" alt="secret notes" src="https://github.com/huseyinozenalbayrak/Secret_Notes/assets/135959878/a387893b-bb66-4b30-982c-288f4ed6f797">
-
 Secret Notes is a secure note-taking application implemented in Python. It allows users to create, view, edit, and delete encrypted notes, ensuring the confidentiality of sensitive information.
+<img width="499" alt="secret notes" src="https://github.com/huseyinozenalbayrak/Secret_Notes/assets/135959878/a387893b-bb66-4b30-982c-288f4ed6f797">
 
 # Features
 Secure Encryption: All notes are encrypted using strong cryptographic algorithms, ensuring that only authorized users can access their contents.
@@ -11,18 +10,18 @@ Intuitive Interface: The application provides a user-friendly interface for seam
 
 # Installation
 Clone the repository to your local machine:
-'''console
+```bash
 git clone https://github.com/huseyinozenalbayrak/Secret_Notes.git
-'''
+```
 Navigate to the project directory:
-'''console
+```bash
 cd Secret_Notes
-'''
+```
 
 Run the Python script:
-'''console
+```bash
 python secret_notes.py
-'''
+```
 - Follow the on-screen instructions to create a new account and start using Secret Notes.
 
 # Usage
